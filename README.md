@@ -4,4 +4,4 @@
 2. [outflow.ipynb](https://github.com/RussianFreak/educational_projects/blob/main/outflow.ipynb) - предсказание оттока пользователей с помощью градиентного бустинга
 3. [mnist.ipynb](https://github.com/RussianFreak/educational_projects/blob/main/mnist.ipynb) - знакомство с полносвязными и сверточными нейронными сетями, распознавание рукописных цифр
 4. [image_classification.ipynb](https://github.com/RussianFreak/educational_projects/blob/main/image_classification.ipynb) - классификация изображений ( в данном случае Симпсонов) при помощи сверточных нейронных сетей
-5. [image_segmentation.ipynb]((https://github.com/RussianFreak/educational_projects/blob/main/image_segmentation.ipynb)) - сегментация изображений, реализация сверточных нейронных сетей SegNet и Unet для сегментации снимков пораженной кожи
+5. [image_segmentation.ipynb](https://github.com/RussianFreak/educational_projects/blob/main/image_segmentation.ipynb) - сегментация изображений, реализация сверточных нейронных сетей SegNet и Unet для сегментации снимков пораженной кожи
