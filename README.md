@@ -1,1 +1,1 @@
-# DLS_Segmentation
+# My educational ML projects
